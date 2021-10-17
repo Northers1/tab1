@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+h1 {
+    color: red;
+    font-family: 'Roboto', sans-serif;
+    margin: 10px 30px;
+    
+}
+
+#div-container {
+    padding: 12px;
+    background-color: blue;
+}
+.div-with-text {
+    background-color: greenyellow;
+}
+
+#parent-container {
+    background-color: blue;
+    height: 100px;
+    border-radius: 150px;
+    padding: 15px;
+}
+.child-container {
+    background-color: yellow;
+    height: 20px;
+}
+#another-element { 
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
